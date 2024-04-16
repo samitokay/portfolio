@@ -15,9 +15,6 @@ Implementation: I began implementing each page, starting with the home page and 
 Challenges Faced
 Responsive Design: One of the main challenges I faced was making the website fully responsive. It required careful consideration of layout and styling to ensure that the content remains readable and visually appealing on different devices.
 
-Overcoming Challenges
-Research and Documentation: I relied on online resources, documentation, and community forums to research solutions to the challenges I encountered. I also documented my findings and solutions to reference later.
-
 Lessons Learned
 Importance of Planning: Planning and outlining the project beforehand proved to be crucial in maintaining a clear direction and avoiding unnecessary roadblocks during development.
 
