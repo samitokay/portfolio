@@ -34,8 +34,17 @@ nav ul li a {
 footer {
     background-color: var(--dark-color);
     color: var(--light-color);
-    padding: 20px 0;
+    padding: 40px 0;
     text-align: center;
+}
+
+.social-icons a {
+    color: #ffffff;
+    margin-right: 10px;
+}
+
+.social-icons a:hover {
+    color: #7fffd4;
 }
 
 /* Custom CSS for boxes */
@@ -89,7 +98,6 @@ button:hover {
     }
 }
 
-  
    .box:last-child {
         margin-right: 0;
     }
